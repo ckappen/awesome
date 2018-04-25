@@ -5,6 +5,7 @@
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration.
 * [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages
 * [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command
+* [Architecture decision records](https://github.com/npryce/adr-tools) - Simple tool for ADR creation
 
 #### Development
 * [Postman](https://www.getpostman.com/) - API Development Environment Client
