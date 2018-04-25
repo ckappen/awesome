@@ -12,6 +12,9 @@
 #### Markdown Editors
 * [MacDown](http://macdown.uranusjr.com/) - Open-Source markdown editor, simple - but good
 
+#### Messaging
+* [Franz](https://meetfranz.com/) - Free messaging app for Slack, WhatsApp, Facebook Messenger and many more
+
 #### Music
 * [Podcast Menu](https://github.com/insidegui/PodcastMenu) - Put Overcast on your Mac's menu bar
 
