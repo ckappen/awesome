@@ -6,6 +6,10 @@
 * [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages
 * [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command
 
+#### Editors
+* [Sublime Text](https://www.sublimetext.com/3) - Simple and fast text editor
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - The best IDE for so many programming languages
+
 #### MacOS
 [BetterTouchTool](https://github.com/folivoraAI/BetterTouchTool) - Modify your Macbook Pro Retina Touchbar
 
