@@ -27,7 +27,10 @@
 #### Music
 * [Podcast Menu](https://github.com/insidegui/PodcastMenu) - Put Overcast on your Mac's menu bar
 
+#### Screensavers
+* [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
+
 #### Source Code
-* [Sourcetree](https://de.atlassian.com/software/sourcetree) Favourite Git UI, perfect for chunked based commits
+* [Sourcetree](https://de.atlassian.com/software/sourcetree) - Favourite Git UI, perfect for chunked based commits
 
 
