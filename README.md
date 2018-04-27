@@ -1,5 +1,7 @@
 # Awesome list
 
+This is my personal awesome tool list - constantly expanding.
+
 #### Command Line Tools
 * [iTerm2](http://www.iterm2.com/) - iTerm2 is my replacement for iTerm or Terminal
 * [Hyper2](https://hyper.is/) - is my second replacement for iTerm
