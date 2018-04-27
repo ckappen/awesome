@@ -32,6 +32,9 @@ This is my personal awesome tool list - constantly expanding.
 #### Screensavers
 * [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
 
+### Security
+* [GPG Suite](https://gpgtools.org/#gpgsuite) - Use GPG Suite to encrypt, decrypt, sign and verify files or messages.
+
 #### Source Code
 * [Sourcetree](https://de.atlassian.com/software/sourcetree) - Favourite Git UI, perfect for chunked based commits
 
