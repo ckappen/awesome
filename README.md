@@ -3,12 +3,13 @@
 This is my personal awesome tool list - constantly expanding.
 
 #### Command Line Tools
-* [iTerm2](http://www.iterm2.com/) - iTerm2 is my replacement for iTerm or Terminal
-* [Hyper2](https://hyper.is/) - is my second replacement for iTerm
-* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration.
-* [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages
-* [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command
 * [Architecture decision records](https://github.com/npryce/adr-tools) - Simple tool for ADR creation
+* [Brew Cask](https://github.com/caskroom/homebrew-cask) - Homebrew-Cask brings its elegance, simplicity, and speed to macOS applications and large binaries alike.
+* [Hyper2](https://hyper.is/) - is my second replacement for iTerm
+* [iTerm2](http://www.iterm2.com/) - iTerm2 is my replacement for iTerm or Terminal
+* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration.
+* [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command
+* [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages
 
 #### Development
 * [Postman](https://www.getpostman.com/) - API Development Environment Client
@@ -29,7 +30,7 @@ This is my personal awesome tool list - constantly expanding.
 #### Music
 * [Podcast Menu](https://github.com/insidegui/PodcastMenu) - Put Overcast on your Mac's menu bar
 
-#### Screensavers
+### Screensavers
 * [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
 
 ### Security
