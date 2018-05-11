@@ -1,6 +1,7 @@
 # Awesome list
 
 #### Command Line Tools
+* [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 * [iTerm2](http://www.iterm2.com/) - iTerm2 is my replacement for iTerm or Terminal
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration.
 * [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages
